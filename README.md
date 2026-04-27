@@ -5,7 +5,8 @@
 
 <img width="1919" height="1079" alt="スクリーンショット 2026-04-27 172901" src="https://github.com/user-attachments/assets/d480caf9-f0fb-4c78-861f-8aa711e1f1f6" />
 
-<img width="1919" height="1079" alt="スクリーンショット 2026-04-27 172707" src="https://github.com/user-attachments/assets/ae284987-87ec-4720-b0e3-97e324f04150" />
+<img width="1919" height="1078" alt="スクリーンショット 2026-04-27 174014" src="https://github.com/user-attachments/assets/5648e308-4dca-4475-9ea7-28aeabd9ad67" />
+
 
 
 ## 操作説明
